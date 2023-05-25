@@ -1,1 +1,1 @@
-# PythonSkills
+在工作之后，我发现我个人的Python水平还有待进步。故建立此repository，记录所有我在Python方面取得的进步。
